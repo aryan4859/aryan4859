@@ -19,7 +19,7 @@
 
 <table>
 <tr>
-<td valign="top"><img src="./aryan4859-ascii.svg" width="420" alt="aryan4859 Vashishta — ASCII portrait" /></td>
+<td valign="top"><img src="./aryan4859-ascii.svg" width="320" alt="aryan4859 Vashishta — ASCII portrait" /></td>
 <td valign="top"><img src="./stats.svg" width="420" alt="aryan4859's GitHub streak and contribution stats — auto-refreshed daily" /></td>
 </tr>
 </table>
