@@ -25,6 +25,7 @@
 </table>
 
 <br>
+<img src="koi/koi.gif" width="256" alt="My koi" />
 <br>
 
 <h3><code>aryan4859@github ~ $ ./links.sh</code></h3>
