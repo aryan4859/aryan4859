@@ -1,21 +1,21 @@
 {
   "username": "aryan4859",
-  "generated_at": "2026-11-21T14:37:19Z",
+  "generated_at": "2026-11-22T14:31:29Z",
   "range": {
-    "start": "2025-11-16",
+    "start": "2025-11-23",
+    "end": "2026-11-22"
+  },
+  "total_contributions": 3724,
+  "active_days": 167,
+  "avg_per_active_day": 22.3,
+  "current_streak": {
+    "length": 47,
+    "start": "2026-10-06",
     "end": "2026-11-21"
   },
-  "total_contributions": 4002,
-  "active_days": 173,
-  "avg_per_active_day": 23.1,
-  "current_streak": {
-    "length": 46,
-    "start": "2026-10-06",
-    "end": "2026-11-20"
-  },
   "longest_streak": {
-    "length": 108,
-    "start": "2025-11-16",
+    "length": 101,
+    "start": "2025-11-23",
     "end": "2026-03-03"
   },
   "best_day": {
@@ -25,7 +25,7 @@
   "monthly": [
     {
       "month": "2025-11",
-      "total": 597
+      "total": 318
     },
     {
       "month": "2025-12",
@@ -73,45 +73,10 @@
     },
     {
       "month": "2026-11",
-      "total": 139
+      "total": 140
     }
   ],
   "days": [
-    {
-      "date": "2025-11-16",
-      "count": 41,
-      "level": 4
-    },
-    {
-      "date": "2025-11-17",
-      "count": 40,
-      "level": 4
-    },
-    {
-      "date": "2025-11-18",
-      "count": 37,
-      "level": 4
-    },
-    {
-      "date": "2025-11-19",
-      "count": 39,
-      "level": 4
-    },
-    {
-      "date": "2025-11-20",
-      "count": 39,
-      "level": 4
-    },
-    {
-      "date": "2025-11-21",
-      "count": 41,
-      "level": 4
-    },
-    {
-      "date": "2025-11-22",
-      "count": 42,
-      "level": 4
-    },
     {
       "date": "2025-11-23",
       "count": 41,
@@ -1929,6 +1894,11 @@
     },
     {
       "date": "2026-11-21",
+      "count": 1,
+      "level": 1
+    },
+    {
+      "date": "2026-11-22",
       "count": 0,
       "level": 0
     }
